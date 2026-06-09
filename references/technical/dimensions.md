@@ -1,4 +1,4 @@
-# Curator Lens — 12 Dimensions
+# GitHub in Plain — 12 维技术评估
 
 Each dimension: **score 1–5**, **one-liner**, **≥1 evidence**. Use conservative scores when evidence is thin.
 

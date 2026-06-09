@@ -1,4 +1,4 @@
-# {Project Name} — Curator Report
+# {Project Name} — 技术解读报告
 
 > **Repo**: {owner}/{repo} · **Mode**: {overview|deep-dive|contributor} · **Date**: {YYYY-MM-DD}
 > **采集**: GitHub 页面 + README（preflight，无需脚本）

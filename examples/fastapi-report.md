@@ -1,4 +1,4 @@
-# FastAPI — Curator Report
+# FastAPI — 技术解读报告
 
 > **Repo**: fastapi/fastapi · **Mode**: overview · **Date**: 2026-06-09
 > **采集**: GitHub 页面 + README（preflight）
@@ -72,4 +72,4 @@
 
 ---
 
-*Example report for [Open Source Curator](../README.md) — scores illustrative; Agent reads live GitHub data at runtime.*
+*Example report for [GitHub in Plain](https://github.com/ning12323/github-in-plain) — scores illustrative; Agent reads live GitHub data at runtime.*
