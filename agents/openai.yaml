@@ -1,0 +1,7 @@
+interface:
+  display_name: "GitHub in Plain"
+  short_description: "Explain GitHub repos in plain language"
+  default_prompt: "Use $github-in-plain to explain this GitHub repo in plain Chinese (大白话) for someone with no coding background."
+
+policy:
+  allow_implicit_invocation: true
